@@ -10,7 +10,7 @@ Simple Python and Flet game tutorial starting assets.
 
 Aki (female) and Hiroshi (male)
 
-![characters](docs/characters.png)
+![aki flip](docs/flip-scale.png)
 
 ## Font
 
