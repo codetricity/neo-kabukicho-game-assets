@@ -12,6 +12,8 @@ Aki (female) and Hiroshi (male)
 
 ![aki flip](docs/flip-scale.png)
 
+Rotation in radians: `ft.Image("actors/aki/aki_fight.png", rotate=ft.Rotate(angle=-0.6)),`
+
 ![aki poses](docs/aki-poses.png)
 
 ## Font
