@@ -16,6 +16,8 @@ Rotation in radians: `ft.Image("actors/aki/aki_fight.png", rotate=ft.Rotate(angl
 
 ![aki poses](docs/aki-poses.png)
 
+![hiroshi poses](docs/hiroshi.png)
+
 ## Font
 
 ![rubrik glitch](docs/font.png)
