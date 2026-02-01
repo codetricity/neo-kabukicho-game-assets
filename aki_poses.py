@@ -35,4 +35,8 @@ def App(page: ft.Page):
     )
 
 
-ft.run(lambda page: page.render(App, page), assets_dir="assets")
+def main(page: ft.Page):
+    page.render(App, page)
+
+
+ft.run(main)
